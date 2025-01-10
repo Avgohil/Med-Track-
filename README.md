@@ -88,4 +88,6 @@ Notifications:
 
 The application will send a desktop notification and play a sound when it's time to take the medicine.
 
+# ScreenShots
+![Screenshot 2025-01-10 223522](https://github.com/user-attachments/assets/cf11182a-a431-4e99-9474-dba47050a9e2)
 
