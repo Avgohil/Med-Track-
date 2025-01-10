@@ -10,11 +10,11 @@ The backend is built using Flask (Python), and the frontend uses Tkinter for a s
 
 ## Features
 
-## Add Medicine: Users can add medicines with details like name, dosage, frequency, start date, end date, and time.
-## View Medicines: Users can view all added medicines in a list.
-## Notifications: The application sends desktop notifications and plays a sound when it's time to take the medicine.
-## Validation: Input fields are validated to ensure correct data formats (e.g., dates, times, and integers).
-## Threading: Notifications and server requests are handled in separate threads to avoid blocking the main application.
+Add Medicine: Users can add medicines with details like name, dosage, frequency, start date, end date, and time.
+View Medicines: Users can view all added medicines in a list.
+Notifications: The application sends desktop notifications and plays a sound when it's time to take the medicine.
+Validation: Input fields are validated to ensure correct data formats (e.g., dates, times, and integers).
+Threading: Notifications and server requests are handled in separate threads to avoid blocking the main application.
 
 ## Technologies Used
 ## Backend: Flask (Python)
@@ -90,4 +90,6 @@ The application will send a desktop notification and play a sound when it's time
 
 # ScreenShots
 ![Screenshot 2025-01-10 223522](https://github.com/user-attachments/assets/cf11182a-a431-4e99-9474-dba47050a9e2)
+
+![Screenshot 2025-01-10 224050](https://github.com/user-attachments/assets/cc218aca-c4dc-4356-839a-4f57a82bc094)
 
